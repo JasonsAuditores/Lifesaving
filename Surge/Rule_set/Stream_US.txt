@@ -1,20 +1,18 @@
 # > Stream US like HBO Max, Paramount, hulu, Discovery, Google Voice is included in this rule
 USER-AGENT,Steam US*
-DOMAIN-SUFFIX,bamgrid.com
-DOMAIN-SUFFIX,disneyplus.com
-DOMAIN-SUFFIX,disney-plus.net
-DOMAIN-SUFFIX,disneystreaming.com
-DOMAIN-SUFFIX,dssott.com
-DOMAIN,cdn.registerdisney.go.com
+# > Google Voice
 DOMAIN,lens.l.google.com
+# > Hulu, Seems quite expensive
 DOMAIN-SUFFIX,hulu.com
 DOMAIN-SUFFIX,huluim.com
 DOMAIN-SUFFIX,hulustream.com
+# > HBO Max, Cheap and exciting
 DOMAIN-SUFFIX,hbo.com
 DOMAIN-SUFFIX,hbogo.com
 DOMAIN-SUFFIX,hbonow.com
 DOMAIN-SUFFIX,hbomax.com
 DOMAIN-SUFFIX,hbomaxcdn.com
+# > Dicovery, Goddam Curiosity
 DOMAIN-SUFFIX,disco-api.com
 DOMAIN-SUFFIX,discoveryplus.co.uk
 DOMAIN-SUFFIX,discoveryplus.com
@@ -23,4 +21,13 @@ DOMAIN-SUFFIX,dnitv.com
 DOMAIN-SUFFIX,discovery.uplynk.com
 DOMAIN,cgo-prod-vz.akamaized.net
 DOMAIN,cx-default-stgec.uplynk.com
-
+# > Paramount, Autobots, Attack!
+DOMAIN-SUFFIX,cbsi.com
+DOMAIN-SUFFIX,cbsaavideo.com
+DOMAIN-SUFFIX,cbsivideo.com
+DOMAIN-SUFFIX,paramountplus.com
+DOMAIN-SUFFIX,pplusstatic.com
+DOMAIN-SUFFIX,cbsi.live.ott.irdeto.com
+DOMAIN-SUFFIX,cbsplaylistserver.aws.syncbak.com
+DOMAIN-SUFFIX,cbsservice.aws.syncbak.com
+DOMAIN-SUFFIX,link.theplatform.com
