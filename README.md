@@ -1,5 +1,5 @@
 # Lifesaving
-This project is for those Apple Device User, including Mac and iOS.
+This project is for those Apple Device Users, including Mac and iOS.
 
 Using Surge as their internet management sytem
 
