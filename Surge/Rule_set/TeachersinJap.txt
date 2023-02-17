@@ -1,0 +1,7 @@
+# > for the teachers who contribes a lot like Teacher Cang
+USER-AGENT,DMM*
+DOMAIN-SUFFIX,dmm.co.jp
+DOMAIN-SUFFIX,dmm.com
+DOMAIN-SUFFIX,dmm-extension.com
+DOMAIN-SUFFIX,videos.vpdmm.cc
+DOMAIN,miluvideo.blog.jp
