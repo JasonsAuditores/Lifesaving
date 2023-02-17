@@ -1,0 +1,32 @@
+# > This file will include Apple news, Economist, NYT, WSJ, Nikkei, etc Using US proxy is highly recommanded
+
+# > WSJ
+DOMAIN-KEYWORD,dowjones
+DOMAIN-SUFFIX,wsj.com
+DOMAIN-SUFFIX,wsj.net
+# > The Economist
+DOMAIN-SUFFIX,economist.com
+DOMAIN-SUFFIX,static-economist.com
+# > The New York Times
+DOMAIN-SUFFIX,newyorktimes.com
+DOMAIN-SUFFIX,nyt.com
+DOMAIN-SUFFIX,nytco.com
+DOMAIN-SUFFIX,nytimes.com
+DOMAIN-SUFFIX,nytimg.com
+DOMAIN-SUFFIX,nytlog.com
+DOMAIN-SUFFIX,nytstyle.com
+DOMAIN-SUFFIX,tmagazine.com
+# > Reuters
+DOMAIN-SUFFIX,reuters.com
+DOMAIN-SUFFIX,reutersmedia.net
+# > Nikkei
+DOMAIN-KEYWORD,Nikkei
+# > Apple News
+DOMAIN,gateway.icloud.com
+DOMAIN-SUFFIX,apple.news
+DOMAIN,news-assets.apple.com
+DOMAIN,news-client.apple.com
+DOMAIN,news-client-search.apple.com
+DOMAIN,news-edge.apple.com
+DOMAIN,news-events.apple.com
+DOMAIN,apple.comscoreresearch.com
