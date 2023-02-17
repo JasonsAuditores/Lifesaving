@@ -1,0 +1,10 @@
+# >Ramdom_Stuff using SG Proxy normally
+USER-AGENT,Ramdom_Stuff
+DOMAIN-SUFFIX,minepi.com
+DOMAIN-SUFFIX,buzzsprout.com
+DOMAIN-SUFFIX,acast.com
+DOMAIN-SUFFIX,voachinese.com
+DOMAIN-SUFFIX,podtrac.com
+DOMAIN-SUFFIX,scdn.co
+DOMAIN-SUFFIX,javlibrary.com
+DOMAIN-SUFFIX,openai.com
