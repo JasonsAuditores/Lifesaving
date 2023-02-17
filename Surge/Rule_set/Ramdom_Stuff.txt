@@ -1,5 +1,6 @@
 # >Ramdom_Stuff using SG Proxy normally
 USER-AGENT,Ramdom_Stuff
+DOMAIN-KEYWORD,playstation
 DOMAIN-SUFFIX,minepi.com
 DOMAIN-SUFFIX,buzzsprout.com
 DOMAIN-SUFFIX,acast.com
