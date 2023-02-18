@@ -30,3 +30,9 @@
 .cbsplaylistserver.aws.syncbak.com
 .cbsservice.aws.syncbak.com
 .link.theplatform.com
+# > Peacock
+.peacocktv.com
+.peacocktv.peacockandroid.com
+# > fubo tv
+.fubo.com
+.fubo.tv
