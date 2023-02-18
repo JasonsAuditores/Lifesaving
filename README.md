@@ -12,3 +12,37 @@ Tips: Click Surge - Proxy Rules - Add New.. - Add NEW Ruleset - External Ruleset
 Normally, Surge on my device is using WireGuard as the protocol to back to my home router then Surf the internet.
 
 Proxies verndor that I am using: https://www.easy2022.com/#/register?code=mmG4jL0R
+# Netflix
+> Domain-Set
+https://raw.githubusercontent.com/JasonsAuditores/Lifesaving/main/Surge/Domain_Set/Netflix.txt
+> Rule-Set
+https://raw.githubusercontent.com/JasonsAuditores/Lifesaving/main/Surge/Rule_set/Netflix.txt
+# Disney
+> Domain-Set
+https://raw.githubusercontent.com/JasonsAuditores/Lifesaving/main/Surge/Domain_Set/DisneyPlus.txt
+> Rule-Set
+https://raw.githubusercontent.com/JasonsAuditores/Lifesaving/main/Surge/Rule_set/DisneyPlus.txt
+# Youtube
+> Rule-Set
+https://raw.githubusercontent.com/JasonsAuditores/Lifesaving/main/Surge/Rule_set/Youtube.txt
+# Stream US(Including Hulu, HBOMAX, Paramount, Dicovey and Google Voice, Highly recommand using the US Proxy)
+> Domain-Set
+https://raw.githubusercontent.com/JasonsAuditores/Lifesaving/main/Surge/Domain_Set/Stream_US.txt
+> Rule-Set
+https://raw.githubusercontent.com/JasonsAuditores/Lifesaving/main/Surge/Rule_set/Stream_US.txt
+# Prime Video Amazon
+> Domain-Set
+https://raw.githubusercontent.com/JasonsAuditores/Lifesaving/main/Surge/Domain_Set/Prime_Video.txt
+> Rule-Set
+https://raw.githubusercontent.com/JasonsAuditores/Lifesaving/main/Surge/Rule_set/Prime_Video.txt
+# Apple TV+
+> Domain-Set
+https://raw.githubusercontent.com/JasonsAuditores/Lifesaving/main/Surge/Domain_Set/Apple_TV_Plus.txt
+> Rule-Set
+https://raw.githubusercontent.com/JasonsAuditores/Lifesaving/main/Surge/Rule_set/Apple_TV_Plus.txt
+# Telegram
+> Rule-Set
+https://raw.githubusercontent.com/JasonsAuditores/Lifesaving/main/Surge/Rule_set/Telegram.txt
+# Missing the teachers of Jap? 
+> Rule-Set
+https://raw.githubusercontent.com/JasonsAuditores/Lifesaving/main/Surge/Rule_set/TeachersinJap.txt
