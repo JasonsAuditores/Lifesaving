@@ -1,0 +1,32 @@
+# > Stream US like HBO Max, Paramount, hulu, Discovery, Google Voice is included in this rule
+# > Google Voice
+.lens.l.google.com
+# > Hulu, Seems quite expensive
+.hulu.com
+.huluim.com
+.hulustream.com
+# > HBO Max, Cheap and exciting
+.hbo.com
+.hbogo.com
+.hbonow.com
+.hbomax.com
+.hbomaxcdn.com
+# > Dicovery, Goddam Curiosity
+.disco-api.com
+.discoveryplus.co.uk
+.discoveryplus.com
+.discoveryplus.in
+.dnitv.com
+.discovery.uplynk.com
+.cgo-prod-vz.akamaized.net
+.cx-default-stgec.uplynk.com
+# > Paramount, Autobots, Attack!
+.cbsi.com
+.cbsaavideo.com
+.cbsivideo.com
+.paramountplus.com
+.pplusstatic.com
+.cbsi.live.ott.irdeto.com
+.cbsplaylistserver.aws.syncbak.com
+.cbsservice.aws.syncbak.com
+.link.theplatform.com
