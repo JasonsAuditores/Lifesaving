@@ -15,11 +15,13 @@ Proxies verndor that I am using: https://www.easy2022.com/#/register?code=mmG4jL
 # Netflix
 > Domain-Set
 https://raw.githubusercontent.com/JasonsAuditores/Lifesaving/main/Surge/Domain_Set/Netflix.txt
+
 > Rule-Set
 https://raw.githubusercontent.com/JasonsAuditores/Lifesaving/main/Surge/Rule_set/Netflix.txt
 # Disney
 > Domain-Set
 https://raw.githubusercontent.com/JasonsAuditores/Lifesaving/main/Surge/Domain_Set/DisneyPlus.txt
+
 > Rule-Set
 https://raw.githubusercontent.com/JasonsAuditores/Lifesaving/main/Surge/Rule_set/DisneyPlus.txt
 # Youtube
@@ -28,16 +30,19 @@ https://raw.githubusercontent.com/JasonsAuditores/Lifesaving/main/Surge/Rule_set
 # Stream US(Including Hulu, HBOMAX, Paramount, Dicovey and Google Voice, Highly recommand using the US Proxy)
 > Domain-Set
 https://raw.githubusercontent.com/JasonsAuditores/Lifesaving/main/Surge/Domain_Set/Stream_US.txt
+
 > Rule-Set
 https://raw.githubusercontent.com/JasonsAuditores/Lifesaving/main/Surge/Rule_set/Stream_US.txt
 # Prime Video Amazon
 > Domain-Set
 https://raw.githubusercontent.com/JasonsAuditores/Lifesaving/main/Surge/Domain_Set/Prime_Video.txt
+
 > Rule-Set
 https://raw.githubusercontent.com/JasonsAuditores/Lifesaving/main/Surge/Rule_set/Prime_Video.txt
 # Apple TV+
 > Domain-Set
 https://raw.githubusercontent.com/JasonsAuditores/Lifesaving/main/Surge/Domain_Set/Apple_TV_Plus.txt
+
 > Rule-Set
 https://raw.githubusercontent.com/JasonsAuditores/Lifesaving/main/Surge/Rule_set/Apple_TV_Plus.txt
 # Telegram
