@@ -36,3 +36,5 @@
 # > fubo tv
 .fubo.com
 .fubo.tv
+fox
+
