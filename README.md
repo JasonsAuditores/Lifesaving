@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/JasonsAuditores/Lifesaving/main/Surge/Rule_set
 # Youtube
 > Rule-Set
 https://raw.githubusercontent.com/JasonsAuditores/Lifesaving/main/Surge/Rule_set/Youtube.txt
-# Stream US(Including Hulu, HBOMAX, Paramount, Dicovey and Google Voice, using the US Proxy is Highly recommanded)
+# Stream US(Including Hulu, HBOMAX, Paramount, Dicovey, Peacock, fubotv and Google Voice, using the US Proxy is Highly recommanded)
 > Domain-Set
 https://raw.githubusercontent.com/JasonsAuditores/Lifesaving/main/Surge/Domain_Set/Stream_US.txt
 
