@@ -31,3 +31,9 @@ DOMAIN-SUFFIX,cbsi.live.ott.irdeto.com
 DOMAIN-SUFFIX,cbsplaylistserver.aws.syncbak.com
 DOMAIN-SUFFIX,cbsservice.aws.syncbak.com
 DOMAIN-SUFFIX,link.theplatform.com
+# > Peacock
+DOMAIN-SUFFIX,peacocktv.com
+DOMAIN-SUFFIX,peacocktv.peacockandroid.com
+# > Fubo tv
+DOMAIN-KEYWORD,fubo
+DOMAIN-KEYWORD,fox
