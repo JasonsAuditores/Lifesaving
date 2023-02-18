@@ -19,8 +19,7 @@ https://raw.githubusercontent.com/JasonsAuditores/Lifesaving/main/Surge/Domain_S
 > Rule-Set
 https://raw.githubusercontent.com/JasonsAuditores/Lifesaving/main/Surge/Rule_set/Netflix.txt
 # Disney
-> Domain-Set
-https://raw.githubusercontent.com/JasonsAuditores/Lifesaving/main/Surge/Domain_Set/DisneyPlus.txt
+> Domain-Set https://raw.githubusercontent.com/JasonsAuditores/Lifesaving/main/Surge/Domain_Set/DisneyPlus.txt
 
 > Rule-Set
 https://raw.githubusercontent.com/JasonsAuditores/Lifesaving/main/Surge/Rule_set/DisneyPlus.txt
