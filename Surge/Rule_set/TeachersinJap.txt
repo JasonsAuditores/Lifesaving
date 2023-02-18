@@ -5,3 +5,4 @@ DOMAIN-SUFFIX,dmm.com
 DOMAIN-SUFFIX,dmm-extension.com
 DOMAIN-SUFFIX,videos.vpdmm.cc
 DOMAIN,miluvideo.blog.jp
+DOMAIN,milu-av.com
