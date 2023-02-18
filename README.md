@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/JasonsAuditores/Lifesaving/main/Surge/Domain_S
 
 > Rule-Set
 https://raw.githubusercontent.com/JasonsAuditores/Lifesaving/main/Surge/Rule_set/Stream_US.txt
-# News(including Apple NEWS, WSJ, NYT, Economist, and Nikkei etc)
+# News(including Apple NEWS, WSJ, NYT, Economist, and Nikkei etc Also Highly recommaned US proxy)
 > Rule-Set
 https://raw.githubusercontent.com/JasonsAuditores/Lifesaving/main/Surge/Rule_set/News.txt
 # Prime Video Amazon
