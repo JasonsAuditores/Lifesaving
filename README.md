@@ -26,12 +26,15 @@ https://raw.githubusercontent.com/JasonsAuditores/Lifesaving/main/Surge/Rule_set
 # Youtube
 > Rule-Set
 https://raw.githubusercontent.com/JasonsAuditores/Lifesaving/main/Surge/Rule_set/Youtube.txt
-# Stream US(Including Hulu, HBOMAX, Paramount, Dicovey and Google Voice, Highly recommand using the US Proxy)
+# Stream US(Including Hulu, HBOMAX, Paramount, Dicovey and Google Voice, using the US Proxy is Highly recommanded)
 > Domain-Set
 https://raw.githubusercontent.com/JasonsAuditores/Lifesaving/main/Surge/Domain_Set/Stream_US.txt
 
 > Rule-Set
 https://raw.githubusercontent.com/JasonsAuditores/Lifesaving/main/Surge/Rule_set/Stream_US.txt
+# News(including Apple NEWS, WSJ, NYT, Economist, and Nikkei etc)
+> Rule-Set
+https://raw.githubusercontent.com/JasonsAuditores/Lifesaving/main/Surge/Rule_set/News.txt
 # Prime Video Amazon
 > Domain-Set
 https://raw.githubusercontent.com/JasonsAuditores/Lifesaving/main/Surge/Domain_Set/Prime_Video.txt
