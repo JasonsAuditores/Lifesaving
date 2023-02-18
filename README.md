@@ -1,5 +1,7 @@
-# Lifesaving
+# Lifesaving for Surge User
 This project is for those Apple Device Users, including Mac and iOS.
+
+Recommand using Domain-set first, if no in Domain-set, then the Rule-set one.
 
 Using Surge as their internet management sytem
 
