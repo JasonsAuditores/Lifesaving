@@ -6,3 +6,5 @@ DOMAIN,hls-amt.itunes.apple.com
 DOMAIN,play-edge.itunes.apple.com
 DOMAIN-SUFFIX,tv.applemusic.com
 DOMAIN,uts-api.itunes.apple.com
+DOMAIN,uts-api.amp-api.fitness.apple.com
+DOMAIN,hls-svod.itunes.apple.com
