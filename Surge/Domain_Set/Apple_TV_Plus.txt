@@ -4,3 +4,5 @@
 .play-edge.itunes.apple.com
 .tv.applemusic.com
 .uts-api.itunes.apple.com
+.uts-api.amp-api.fitness.apple.com
+.hls-svod.itunes.apple.com
