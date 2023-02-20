@@ -7,7 +7,7 @@ Recommand using Domain-set first, if no in Domain-set, then the Rule-set one.
 
 I just listed some rules that I use for daily.
 
-Tips: Click Surge - Proxy Rules - Add New.. - Add NEW Ruleset - External Ruleset and pick up one of my raw txt into it, choosing the proper proxy/policy groups you want.
+Tips: Click Surge - Proxy Rules - Add New.. - Add NEW Ruleset - External Ruleset and pick up one of below link into it, choosing the proper proxy/policy groups you want.
 
 Proxies verndor that I am using: https://www.easy2022.com/#/register?code=mmG4jL0R
 # Netflix
