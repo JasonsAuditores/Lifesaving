@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,reuters.com
 DOMAIN-SUFFIX,reutersmedia.net
 # > Nikkei
 DOMAIN-KEYWORD,Nikkei
+DOMAIN-SUFFIX,ft.com
 # > Apple News
 DOMAIN,gateway.icloud.com
 DOMAIN-SUFFIX,apple.news
