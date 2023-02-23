@@ -21,6 +21,7 @@ DOMAIN-SUFFIX,thewirecutter.com
 DOMAIN-SUFFIX,reuters.com
 DOMAIN-SUFFIX,reutersmedia.net
 # > Nikkei
+DOMAIN-KEYWORD,nikkei
 DOMAIN-SUFFIX,nikkei.com
 DOMAIN-SUFFIX,ft.com
 # > Apple News
