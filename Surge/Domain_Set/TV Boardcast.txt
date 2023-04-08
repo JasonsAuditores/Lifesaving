@@ -1,0 +1,10 @@
+# > This is for the Live TV boardcast
+.cdn.hklive.tv
+.rthktv31-live.akamaized.net
+.uc6.i-cable.com
+.livetv.dnsfor.me
+.epg.pm
+.ocsp.pki.goog
+.yshmzmc.top
+.play-live.ifeng.com
+.nbcnews2.akamaized.net
