@@ -37,3 +37,7 @@ DOMAIN-SUFFIX,peacocktv.peacockandroid.com
 # > Fubo tv
 DOMAIN-KEYWORD,fubo
 DOMAIN-KEYWORD,fox
+# > Buyee JP
+DOMAIN-SUFFIX,buyee.jp
+# > inty
+DOMAIN-SUFFIX,inty.news
