@@ -41,3 +41,5 @@ DOMAIN-KEYWORD,fox
 DOMAIN-SUFFIX,buyee.jp
 # > inty
 DOMAIN-SUFFIX,inty.news
+# > NASA
+DOMAIN-SUFFIX,nasa.gov
