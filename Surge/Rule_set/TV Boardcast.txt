@@ -1,10 +1,15 @@
 # > This is for the Live TV boardcast
-.cdn.hklive.tv
-.rthktv31-live.akamaized.net
-.uc6.i-cable.com
-.livetv.dnsfor.me
-.epg.pm
-.ocsp.pki.goog
-.yshmzmc.top
-.play-live.ifeng.com
-.nbcnews2.akamaized.net
+DOMAIN-SUFFIX,cdn.hklive.tv
+DOMAIN-SUFFIX,rthktv31-live.akamaized.net
+DOMAIN-SUFFIX,uc6.i-cable.com
+DOMAIN-SUFFIX,livetv.dnsfor.me
+DOMAIN-SUFFIX,epg.pm
+DOMAIN-SUFFIX,ocsp.pki.goog
+DOMAIN-SUFFIX,yshmzmc.top
+DOMAIN-SUFFIX,play-live.ifeng.com
+DOMAIN-SUFFIX,nbcnews2.akamaized.net
+IP-CIDR,17.253.87.207/32,no-resolve
+IP-CIDR,184.86.216.24/32,no-resolve
+IP-CIDR,210.3.205.146/32,no-resolve
+IP-CIDR,17.253.84.253/32,no-resolve
+IP-CIDR,199.232.45.229/32,no-resolve
