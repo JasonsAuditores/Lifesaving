@@ -9,3 +9,4 @@ DOMAIN-SUFFIX,tv.applemusic.com
 DOMAIN,uts-api.itunes.apple.com
 DOMAIN,hls-svod.itunes.apple.com
 DOMAIN,sp.itunes.apple.com
+DOMAIN,play.itunes.apple.com
