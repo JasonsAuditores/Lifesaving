@@ -40,3 +40,6 @@ DOMAIN-SUFFIX,bag.itunes.apple.com
 DOMAIN-SUFFIX,podcast.apple.com
 DOMAIN-SUFFIX,bookkeeper.itunes.apple.com
 
+# Yahoo News(especially in Apple Stock)
+DOMAIN-KEYWORD, yahoo
+DOMAIN-SUFFIX, yahoo.com
