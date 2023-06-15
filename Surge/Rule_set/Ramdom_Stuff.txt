@@ -8,3 +8,4 @@ DOMAIN-SUFFIX,voachinese.com
 DOMAIN-SUFFIX,podtrac.com
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,javlibrary.com
+DOMAIN-SUFFIX,soundon.fm
