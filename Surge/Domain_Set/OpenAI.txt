@@ -1,2 +1,3 @@
 .openai.com
 .sentry.io
+.openai.azure.com
