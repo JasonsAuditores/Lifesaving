@@ -9,3 +9,4 @@ DOMAIN-SUFFIX,podtrac.com
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,javlibrary.com
 DOMAIN-SUFFIX,soundon.fm
+DOMAIN-SUFFIX,annas-archive.org
