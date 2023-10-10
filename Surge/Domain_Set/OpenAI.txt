@@ -2,3 +2,14 @@
 .sentry.io
 .openai.azure.com
 .Claude.ai
+.ai.com
+.auth0.com
+.challenges.cloudflare.com
+.client-api.arkoselabs.com
+.events.statsigapi.net
+.featuregates.org
+.identrust.com
+.intercom.io
+.intercomcdn.com
+.poe.com
+.stripe.com
