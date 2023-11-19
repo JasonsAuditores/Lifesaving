@@ -45,5 +45,6 @@ DOMAIN-SUFFIX,inty.news
 DOMAIN-SUFFIX,nasa.gov
 # > LearnHotEnglish
 DOMAIN-SUFFIX,learnhotenglish.com
-# > IGN
+# > IGN, Gamestop
 DOMAIN-SUFFIX,ign.com
+DOMAIN-SUFFIX,gamestop.com
