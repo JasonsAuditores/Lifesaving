@@ -8,3 +8,4 @@ DOMAIN-SUFFIX,miluvideo.blog.jp
 DOMAIN-SUFFIX,milu-av.com
 DOMAIN-SUFFIX,favemode.com
 DOMAIN-SUFFIX,rakuten.co.jp
+DOMAIN-SUFFIX,guoyu.mirror.xyz
