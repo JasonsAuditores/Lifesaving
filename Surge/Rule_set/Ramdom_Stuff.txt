@@ -11,3 +11,4 @@ DOMAIN-SUFFIX,javlibrary.com
 DOMAIN-SUFFIX,soundon.fm
 DOMAIN-SUFFIX,annas-archive.org
 DOMAIN-SUFFIX,inty.news
+DOMAIN-SUFFIX,bulianglin.com
