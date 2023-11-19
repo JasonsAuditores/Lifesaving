@@ -13,3 +13,5 @@ DOMAIN-SUFFIX,annas-archive.org
 DOMAIN-SUFFIX,bulianglin.com
 DOMAIN-SUFFIX,megaphone.fm
 DOMAIN-SUFFIX,sex-positions.online
+DOMAIN-SUFFIX,chrt.fm
+DOMAIN-SUFFIX,pdst.fm
