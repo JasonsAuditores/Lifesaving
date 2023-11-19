@@ -1,7 +1,6 @@
 # > Youtube
 USER-AGENT,Youtube*
 DOMAIN-KEYWORD,youtube
-DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,withyoutube.com
