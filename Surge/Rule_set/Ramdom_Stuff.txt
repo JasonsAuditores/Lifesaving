@@ -12,3 +12,4 @@ DOMAIN-SUFFIX,soundon.fm
 DOMAIN-SUFFIX,annas-archive.org
 DOMAIN-SUFFIX,bulianglin.com
 DOMAIN-SUFFIX,megaphone.fm
+DOMAIN-SUFFIX,sex-positions.online
