@@ -43,3 +43,5 @@ DOMAIN-SUFFIX,buyee.jp
 DOMAIN-SUFFIX,inty.news
 # > NASA
 DOMAIN-SUFFIX,nasa.gov
+# > LearnHotEnglish
+DOMAIN-SUFFIX,learnhotenglish.com
