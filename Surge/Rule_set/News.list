@@ -1,0 +1,45 @@
+# > This file will include Apple news, Economist, NYT, WSJ, Nikkei, etc Using US proxy is highly recommanded
+
+# > WSJ
+DOMAIN-KEYWORD,dowjones
+DOMAIN-SUFFIX,wsj.com
+DOMAIN-SUFFIX,wsj.net
+# > The Economist
+DOMAIN-SUFFIX,economist.com
+DOMAIN-SUFFIX,static-economist.com
+# > The New York Times
+DOMAIN-SUFFIX,newyorktimes.com
+DOMAIN-SUFFIX,nyt.com
+DOMAIN-SUFFIX,nytco.com
+DOMAIN-SUFFIX,nytimes.com
+DOMAIN-SUFFIX,nytimg.com
+DOMAIN-SUFFIX,nytlog.com
+DOMAIN-SUFFIX,nytstyle.com
+DOMAIN-SUFFIX,tmagazine.com
+DOMAIN-SUFFIX,thewirecutter.com
+# > Reuters
+DOMAIN-SUFFIX,reuters.com
+DOMAIN-SUFFIX,reutersmedia.net
+# > Nikkei
+DOMAIN-KEYWORD,nikkei
+DOMAIN-SUFFIX,nikkei.com
+DOMAIN-SUFFIX,ft.com
+# > Apple News
+DOMAIN-SUFFIX,gateway.icloud.com
+DOMAIN-SUFFIX,apple.news
+DOMAIN-SUFFIX,news-assets.apple.com
+DOMAIN-SUFFIX,news-client.apple.com
+DOMAIN-SUFFIX,news-client-search.apple.com
+DOMAIN-SUFFIX,news-edge.apple.com
+DOMAIN-SUFFIX,news-events.apple.com
+DOMAIN-SUFFIX,apple.comscoreresearch.com
+DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
+
+# > Apple Podcast
+DOMAIN-SUFFIX,bag.itunes.apple.com
+DOMAIN-SUFFIX,podcast.apple.com
+DOMAIN-SUFFIX,bookkeeper.itunes.apple.com
+
+# Yahoo News(especially in Apple Stock)
+DOMAIN-KEYWORD, yahoo
+DOMAIN-SUFFIX, yahoo.com
