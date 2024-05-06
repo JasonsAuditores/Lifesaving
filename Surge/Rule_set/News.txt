@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,news-client.apple.com
 DOMAIN-SUFFIX,news-client-search.apple.com
 DOMAIN-SUFFIX,news-edge.apple.com
 DOMAIN-SUFFIX,news-events.apple.com
+DOMAIN-SUFFIX,news-sports-events.apple.com
 DOMAIN-SUFFIX,apple.comscoreresearch.com
 DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
 
