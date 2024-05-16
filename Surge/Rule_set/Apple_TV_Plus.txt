@@ -4,3 +4,4 @@ DOMAIN-SUFFIX,tv.apple.com
 DOMAIN-SUFFIX,fitness.apple.com
 DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,tv.applemusic.com
+DOMAIN-SUFFIX,xp.apple.com
