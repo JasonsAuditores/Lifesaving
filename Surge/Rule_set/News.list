@@ -44,3 +44,8 @@ DOMAIN-SUFFIX,bookkeeper.itunes.apple.com
 # Yahoo News(especially in Apple Stock)
 DOMAIN-KEYWORD, yahoo
 DOMAIN-SUFFIX, yahoo.com
+
+#Initium news
+DOMAIN-SUFFIX,theinitium.com
+DOMAIN-SUFFIX,onesignal.com
+DOMAIN-SUFFIX,main-initium-initium.content.pugpig.com
