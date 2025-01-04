@@ -11,3 +11,4 @@ DOMAIN-SUFFIX,rakuten.co.jp
 DOMAIN-SUFFIX,guoyu.mirror.xyz
 DOMAIN-SUFFIX,yahoo.co.jp
 DOMAIN-SUFFIX,resize.blogsys.jp
+DOMAIN-SUFFIX,dmm.ai
