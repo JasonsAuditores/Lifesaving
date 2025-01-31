@@ -16,3 +16,4 @@ DOMAIN-SUFFIX,sex-positions.online
 DOMAIN-SUFFIX,chrt.fm
 DOMAIN-SUFFIX,pdst.fm
 DOMAIN-SUFFIX,iplce.net
+DOMAIN-SUFFIX,nssurge.com
