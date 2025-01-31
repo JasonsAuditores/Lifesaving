@@ -3,6 +3,6 @@ DOMAIN-SUFFIX,minepi.com
 DOMAIN-SUFFIX,socialchain.app
 DOMAIN-SUFFIX,applovin.com
 IP-CIDR,13.35.202.60/32,no-resolve
-IP-CIDR,34.149.10.176,no-resolve
-IP-CIDR,141.193.213.20,no-resolve
-IP-CIDR,141.193.213.21,no-resolve
+IP-CIDR,34.149.10.176/32,no-resolve
+IP-CIDR,141.193.213.20/32,no-resolve
+IP-CIDR,141.193.213.21/32,no-resolve
