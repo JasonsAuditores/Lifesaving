@@ -50,3 +50,5 @@ DOMAIN-SUFFIX,learnhotenglish.com
 # > IGN, Gamestop
 DOMAIN-SUFFIX,ign.com
 DOMAIN-SUFFIX,gamestop.com
+# > 1Pondo
+DOMAIN-SUFFIX,1pondo.com
