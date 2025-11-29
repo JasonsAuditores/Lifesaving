@@ -17,3 +17,5 @@ DOMAIN-SUFFIX,chrt.fm
 DOMAIN-SUFFIX,pdst.fm
 DOMAIN-SUFFIX,iplce.net
 DOMAIN-SUFFIX,nssurge.com
+DOMAIN-SUFFIX,flightyapp.com
+DOMAIN-SUFFIX,appcenter.ms
